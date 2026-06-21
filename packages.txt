@@ -1,3 +1,4 @@
+streamlit
 ghostscript
 tesseract-ocr
 tesseract-ocr-eng
