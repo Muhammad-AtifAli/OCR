@@ -1,0 +1,2 @@
+streamlit==1.58.0
+ocrmypdf==17.7.0
